@@ -78,8 +78,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							Servicios
 						</a>
 						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-							<a class="dropdown-item text-center" href="projects.html">Projects</a>
-							<a class="dropdown-item text-center" href="typography.html">Typography</a>
+							<a class="dropdown-item text-center" href="projects.html">Alquiler</a>
+							<a class="dropdown-item text-center" href="typography.html">Ventas</a>
+							<a class="dropdown-item text-center" href="typography.html">Mantenimientos</a>
+							<a class="dropdown-item text-center" href="typography.html">Instalaciones</a>
+							<a class="dropdown-item text-center" href="typography.html">Emegencias</a>
+							<a class="dropdown-item text-center" href="typography.html">Asesoria Post Venta</a>
 						</div>
 					</li>
 					<li class="nav-item">
